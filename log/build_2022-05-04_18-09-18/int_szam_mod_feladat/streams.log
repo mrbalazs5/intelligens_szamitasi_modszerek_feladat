@@ -1,0 +1,64 @@
+[0.210s] Invoking command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed
+[0.361s] running egg_info
+[0.361s] creating ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info
+[0.361s] writing ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/PKG-INFO
+[0.363s] writing dependency_links to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/dependency_links.txt
+[0.363s] writing entry points to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/entry_points.txt
+[0.363s] writing requirements to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/requires.txt
+[0.364s] writing top-level names to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/top_level.txt
+[0.364s] writing manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+[0.391s] reading manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+[0.394s] writing manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+[0.394s] running build
+[0.394s] running build_py
+[0.395s] creating /home/user/int_szam_mod/build/int_szam_mod_feladat/build
+[0.395s] creating /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib
+[0.395s] creating /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.395s] copying int_szam_mod_feladat/int_szam_mod_feladat_message_broadcaster.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.395s] copying int_szam_mod_feladat/__init__.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.395s] copying int_szam_mod_feladat/fixed_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.396s] copying int_szam_mod_feladat/int_szam_mod_feladat_broadcaster.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.396s] copying int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.399s] copying int_szam_mod_feladat/static_int_szam_mod_feladat_broadcaster.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.400s] copying int_szam_mod_feladat/dynamic_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.400s] running install
+[0.400s] running install_lib
+[0.400s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.403s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/int_szam_mod_feladat_message_broadcaster.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.405s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/__init__.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.405s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/fixed_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.407s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/int_szam_mod_feladat_broadcaster.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.407s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.407s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/static_int_szam_mod_feladat_broadcaster.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.408s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/dynamic_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.408s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/int_szam_mod_feladat_message_broadcaster.py to int_szam_mod_feladat_message_broadcaster.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/__init__.py to __init__.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/fixed_frame_tf2_broadcaster.py to fixed_frame_tf2_broadcaster.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/int_szam_mod_feladat_broadcaster.py to int_szam_mod_feladat_broadcaster.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/int_szam_mod_feladat_listener.py to int_szam_mod_feladat_listener.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/static_int_szam_mod_feladat_broadcaster.py to static_int_szam_mod_feladat_broadcaster.cpython-38.pyc
+[0.409s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/dynamic_frame_tf2_broadcaster.py to dynamic_frame_tf2_broadcaster.cpython-38.pyc
+[0.409s] running install_data
+[0.410s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/share/ament_index
+[0.411s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/share/ament_index/resource_index
+[0.411s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/share/ament_index/resource_index/packages
+[0.411s] copying resource/int_szam_mod_feladat -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/ament_index/resource_index/packages
+[0.412s] copying package.xml -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat
+[0.412s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/launch
+[0.412s] copying launch/int_szam_mod_feladat_dynamic_frame_demo.launch.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/launch
+[0.412s] copying launch/int_szam_mod_feladat.launch.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/launch
+[0.413s] copying launch/int_szam_mod_feladat_sensor_message.launch.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/launch
+[0.413s] copying launch/int_szam_mod_feladat_fixed_frame.launch.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/launch
+[0.413s] creating /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/rviz
+[0.413s] copying rviz/turtle_rviz.rviz -> /home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/rviz
+[0.413s] running install_egg_info
+[0.413s] Copying ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat-0.3.0-py3.8.egg-info
+[0.413s] running install_scripts
+[0.429s] Installing dynamic_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.429s] Installing fixed_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.429s] Installing int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.430s] Installing int_szam_mod_feladat_listener script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.430s] Installing int_szam_mod_feladat_message_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.431s] Installing static_int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.431s] writing list of installed files to '/home/user/int_szam_mod/build/int_szam_mod_feladat/install.log'
+[0.461s] Invoked command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed

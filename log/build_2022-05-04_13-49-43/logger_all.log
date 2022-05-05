@@ -1,0 +1,252 @@
+[0.343s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.343s] DEBUG:colcon:Parsed command line arguments: Namespace(ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f57757e2190>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=6, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f57757e2190>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f57757e26d0>)
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.357s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.357s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/user/int_szam_mod'
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.358s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['ignore', 'ignore_ament_install']
+[0.367s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'ignore'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'ignore_ament_install'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['colcon_pkg']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'colcon_pkg'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['colcon_meta']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'colcon_meta'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['ros']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'ros'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['cmake', 'python']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'cmake'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'python'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extensions ['python_setup_py']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials) by extension 'python_setup_py'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extensions ['ignore', 'ignore_ament_install']
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extension 'ignore'
+[0.368s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extension 'ignore_ament_install'
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extensions ['colcon_pkg']
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extension 'colcon_pkg'
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extensions ['colcon_meta']
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extension 'colcon_meta'
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extensions ['ros']
+[0.369s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/geometry_tutorials) by extension 'ros'
+[0.371s] DEBUG:colcon.colcon_core.package_identification:Package 'geometry_tutorials/geometry_tutorials' with type 'ros.ament_cmake' and name 'geometry_tutorials'
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extensions ['ignore', 'ignore_ament_install']
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extension 'ignore'
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extension 'ignore_ament_install'
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extensions ['colcon_pkg']
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extension 'colcon_pkg'
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extensions ['colcon_meta']
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extension 'colcon_meta'
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extensions ['ros']
+[0.371s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_cpp) by extension 'ros'
+[0.372s] DEBUG:colcon.colcon_core.package_identification:Package 'geometry_tutorials/turtle_tf2_cpp' with type 'ros.ament_cmake' and name 'turtle_tf2_cpp'
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extensions ['ignore', 'ignore_ament_install']
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extension 'ignore'
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extension 'ignore_ament_install'
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extensions ['colcon_pkg']
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extension 'colcon_pkg'
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extensions ['colcon_meta']
+[0.372s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extension 'colcon_meta'
+[0.373s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extensions ['ros']
+[0.373s] Level 1:colcon.colcon_core.package_identification:_identify(geometry_tutorials/turtle_tf2_py) by extension 'ros'
+[0.373s] DEBUG:colcon.colcon_core.package_identification:Package 'geometry_tutorials/turtle_tf2_py' with type 'ros.ament_python' and name 'turtle_tf2_py'
+[0.373s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.373s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.373s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.374s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.374s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.374s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.374s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_args' from command line to 'None'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_target' from command line to 'None'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_clean_cache' from command line to 'False'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_clean_first' from command line to 'False'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'cmake_force_configure' from command line to 'False'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'ament_cmake_args' from command line to 'None'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'catkin_cmake_args' from command line to 'None'
+[0.398s] Level 5:colcon.colcon_core.verb:set package 'geometry_tutorials' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.398s] DEBUG:colcon.colcon_core.verb:Building package 'geometry_tutorials' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/int_szam_mod/build/geometry_tutorials', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/int_szam_mod/install/geometry_tutorials', 'merge_install': False, 'path': '/home/user/int_szam_mod/geometry_tutorials/geometry_tutorials', 'symlink_install': False, 'test_result_base': None}
+[0.399s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_args' from command line to 'None'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_target' from command line to 'None'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_clean_cache' from command line to 'False'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_clean_first' from command line to 'False'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'cmake_force_configure' from command line to 'False'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'ament_cmake_args' from command line to 'None'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'catkin_cmake_args' from command line to 'None'
+[0.400s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_cpp' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.400s] DEBUG:colcon.colcon_core.verb:Building package 'turtle_tf2_cpp' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/int_szam_mod/build/turtle_tf2_cpp', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/int_szam_mod/install/turtle_tf2_cpp', 'merge_install': False, 'path': '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp', 'symlink_install': False, 'test_result_base': None}
+[0.402s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_args' from command line to 'None'
+[0.402s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_target' from command line to 'None'
+[0.402s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.402s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_clean_cache' from command line to 'False'
+[0.402s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_clean_first' from command line to 'False'
+[0.403s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'cmake_force_configure' from command line to 'False'
+[0.403s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'ament_cmake_args' from command line to 'None'
+[0.403s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'catkin_cmake_args' from command line to 'None'
+[0.403s] Level 5:colcon.colcon_core.verb:set package 'turtle_tf2_py' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.403s] DEBUG:colcon.colcon_core.verb:Building package 'turtle_tf2_py' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/int_szam_mod/build/turtle_tf2_py', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/int_szam_mod/install/turtle_tf2_py', 'merge_install': False, 'path': '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py', 'symlink_install': False, 'test_result_base': None}
+[0.403s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.405s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.405s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/user/int_szam_mod/geometry_tutorials/geometry_tutorials' with build type 'ament_cmake'
+[0.405s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/user/int_szam_mod/geometry_tutorials/geometry_tutorials'
+[0.435s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.435s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.435s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.440s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.443s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp' with build type 'ament_cmake'
+[0.444s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp'
+[0.444s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.444s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.447s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.449s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py' with build type 'ament_python'
+[0.450s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_tf2_py', 'ament_prefix_path')
+[0.450s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/ament_prefix_path.ps1'
+[0.453s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/ament_prefix_path.dsv'
+[0.454s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/ament_prefix_path.sh'
+[0.455s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.455s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.456s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.465s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/geometry_tutorials': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/geometry_tutorials -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/geometry_tutorials
+[0.475s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/turtle_tf2_cpp
+[0.654s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py'
+[0.655s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.655s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.656s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[1.664s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed
+[1.689s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed
+[1.696s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py' for CMake module files
+[1.696s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py' for CMake config files
+[1.696s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py/lib'
+[1.697s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py/bin'
+[1.697s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py/lib/pkgconfig/turtle_tf2_py.pc'
+[1.697s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages'
+[1.697s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_tf2_py', 'pythonpath')
+[1.697s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/pythonpath.ps1'
+[1.698s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/pythonpath.dsv'
+[1.698s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/hook/pythonpath.sh'
+[1.698s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(turtle_tf2_py)
+[1.699s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/package.ps1'
+[1.700s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/package.dsv'
+[1.703s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/package.sh'
+[1.704s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/package.bash'
+[1.706s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/package.zsh'
+[1.707s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/turtle_tf2_py/share/colcon-core/packages/turtle_tf2_py)
+[1.714s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/geometry_tutorials' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/geometry_tutorials -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/geometry_tutorials
+[1.715s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/geometry_tutorials': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/geometry_tutorials -- -j6 -l6
+[1.754s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/geometry_tutorials' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/geometry_tutorials -- -j6 -l6
+[1.795s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/geometry_tutorials': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/geometry_tutorials
+[1.828s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(geometry_tutorials)
+[1.830s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials' for CMake module files
+[1.831s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/geometry_tutorials' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/geometry_tutorials
+[1.832s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials' for CMake config files
+[1.832s] Level 1:colcon.colcon_core.shell:create_environment_hook('geometry_tutorials', 'cmake_prefix_path')
+[1.832s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.ps1'
+[1.833s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.dsv'
+[1.833s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.sh'
+[1.834s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/bin'
+[1.834s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/lib/pkgconfig/geometry_tutorials.pc'
+[1.834s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/lib/python3.8/site-packages'
+[1.834s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.ps1'
+[1.835s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.dsv'
+[1.835s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.sh'
+[1.835s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.bash'
+[1.836s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.zsh'
+[1.836s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/geometry_tutorials/share/colcon-core/packages/geometry_tutorials)
+[1.864s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(geometry_tutorials)
+[1.865s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials' for CMake module files
+[1.866s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials' for CMake config files
+[1.867s] Level 1:colcon.colcon_core.shell:create_environment_hook('geometry_tutorials', 'cmake_prefix_path')
+[1.868s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.ps1'
+[1.868s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.dsv'
+[1.869s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/hook/cmake_prefix_path.sh'
+[1.871s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/bin'
+[1.871s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/lib/pkgconfig/geometry_tutorials.pc'
+[1.871s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/geometry_tutorials/lib/python3.8/site-packages'
+[1.871s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.ps1'
+[1.872s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.dsv'
+[1.872s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.sh'
+[1.873s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.bash'
+[1.873s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.zsh'
+[1.874s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/geometry_tutorials/share/colcon-core/packages/geometry_tutorials)
+[2.964s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/turtle_tf2_cpp
+[2.967s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+[10.822s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+[10.870s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp
+[10.895s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(turtle_tf2_cpp)
+[10.896s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp' for CMake module files
+[10.896s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp
+[10.897s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp' for CMake config files
+[10.897s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_tf2_cpp', 'cmake_prefix_path')
+[10.897s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.ps1'
+[10.898s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.dsv'
+[10.898s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.sh'
+[10.898s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib'
+[10.898s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/bin'
+[10.899s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib/pkgconfig/turtle_tf2_cpp.pc'
+[10.899s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib/python3.8/site-packages'
+[10.899s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.ps1'
+[10.899s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.dsv'
+[10.900s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.sh'
+[10.900s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.bash'
+[10.900s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.zsh'
+[10.901s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/turtle_tf2_cpp/share/colcon-core/packages/turtle_tf2_cpp)
+[10.943s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(turtle_tf2_cpp)
+[10.944s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp' for CMake module files
+[10.944s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp' for CMake config files
+[10.945s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_tf2_cpp', 'cmake_prefix_path')
+[10.946s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.ps1'
+[10.946s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.dsv'
+[10.947s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/hook/cmake_prefix_path.sh'
+[10.947s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib'
+[10.947s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/bin'
+[10.947s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib/pkgconfig/turtle_tf2_cpp.pc'
+[10.948s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/turtle_tf2_cpp/lib/python3.8/site-packages'
+[10.948s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.ps1'
+[10.948s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.dsv'
+[10.949s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.sh'
+[10.950s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.bash'
+[10.950s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.zsh'
+[10.950s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/turtle_tf2_cpp/share/colcon-core/packages/turtle_tf2_cpp)
+[10.951s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[10.952s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[10.952s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[10.952s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[10.974s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[10.974s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[10.974s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[10.974s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[11.040s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[11.041s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.ps1'
+[11.042s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/int_szam_mod/install/_local_setup_util_ps1.py'
+[11.044s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.ps1'
+[11.047s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.sh'
+[11.048s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/int_szam_mod/install/_local_setup_util_sh.py'
+[11.048s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.sh'
+[11.052s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.bash'
+[11.053s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.bash'
+[11.055s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.zsh'
+[11.056s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.zsh'

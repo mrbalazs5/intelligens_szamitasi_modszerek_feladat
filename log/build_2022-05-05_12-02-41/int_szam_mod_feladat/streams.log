@@ -1,0 +1,29 @@
+[0.230s] Invoking command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed
+[0.407s] running egg_info
+[0.408s] writing ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/PKG-INFO
+[0.417s] writing dependency_links to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/dependency_links.txt
+[0.419s] writing entry points to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/entry_points.txt
+[0.419s] writing requirements to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/requires.txt
+[0.419s] writing top-level names to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/top_level.txt
+[0.452s] reading manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+[0.454s] writing manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+[0.456s] running build
+[0.458s] running build_py
+[0.458s] copying int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+[0.458s] running install
+[0.460s] running install_lib
+[0.462s] copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+[0.464s] byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/int_szam_mod_feladat_listener.py to int_szam_mod_feladat_listener.cpython-38.pyc
+[0.470s] running install_data
+[0.471s] running install_egg_info
+[0.473s] removing '/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat-0.3.0-py3.8.egg-info' (and everything under it)
+[0.473s] Copying ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat-0.3.0-py3.8.egg-info
+[0.486s] running install_scripts
+[0.499s] Installing dynamic_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.503s] Installing fixed_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.503s] Installing int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.503s] Installing int_szam_mod_feladat_listener script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.505s] Installing int_szam_mod_feladat_message_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.513s] Installing static_int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+[0.514s] writing list of installed files to '/home/user/int_szam_mod/build/int_szam_mod_feladat/install.log'
+[0.543s] Invoked command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed

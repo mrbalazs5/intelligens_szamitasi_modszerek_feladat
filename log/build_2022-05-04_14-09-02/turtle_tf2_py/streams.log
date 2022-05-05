@@ -1,0 +1,26 @@
+[0.224s] Invoking command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed
+[0.370s] running egg_info
+[0.373s] writing ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/PKG-INFO
+[0.374s] writing dependency_links to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/dependency_links.txt
+[0.375s] writing entry points to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/entry_points.txt
+[0.375s] writing requirements to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/requires.txt
+[0.375s] writing top-level names to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/top_level.txt
+[0.402s] reading manifest file '../../build/turtle_tf2_py/turtle_tf2_py.egg-info/SOURCES.txt'
+[0.403s] writing manifest file '../../build/turtle_tf2_py/turtle_tf2_py.egg-info/SOURCES.txt'
+[0.403s] running build
+[0.404s] running build_py
+[0.404s] running install
+[0.404s] running install_lib
+[0.406s] running install_data
+[0.407s] running install_egg_info
+[0.408s] removing '/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py-0.3.0-py3.8.egg-info' (and everything under it)
+[0.408s] Copying ../../build/turtle_tf2_py/turtle_tf2_py.egg-info to /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py-0.3.0-py3.8.egg-info
+[0.409s] running install_scripts
+[0.426s] Installing dynamic_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.428s] Installing fixed_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.429s] Installing static_turtle_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.429s] Installing turtle_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.429s] Installing turtle_tf2_listener script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.430s] Installing turtle_tf2_message_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[0.431s] writing list of installed files to '/home/user/int_szam_mod/build/turtle_tf2_py/install.log'
+[0.464s] Invoked command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed

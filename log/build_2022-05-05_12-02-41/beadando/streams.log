@@ -1,0 +1,20 @@
+[0.037s] Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+[0.248s] Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+[0.285s] Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando
+[0.294s] -- Install configuration: ""
+[0.294s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/package_run_dependencies/beadando
+[0.296s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/parent_prefix_path/beadando
+[0.297s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.sh
+[0.297s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.dsv
+[0.297s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/environment/path.sh
+[0.297s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/environment/path.dsv
+[0.297s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.bash
+[0.298s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.sh
+[0.298s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.zsh
+[0.298s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.dsv
+[0.298s] -- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/package.dsv
+[0.299s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/packages/beadando
+[0.299s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig.cmake
+[0.299s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig-version.cmake
+[0.299s] -- Up-to-date: /home/user/int_szam_mod/install/beadando/share/beadando/package.xml
+[0.303s] Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando

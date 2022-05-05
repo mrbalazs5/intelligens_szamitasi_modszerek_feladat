@@ -1,0 +1,185 @@
+[0.297s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.297s] DEBUG:colcon:Parsed command line arguments: Namespace(ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f1a0adb0a90>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=6, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f1a0adb0a90>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f1a0adbe040>)
+[0.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.306s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.306s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/user/int_szam_mod'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.306s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.307s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.318s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['ignore', 'ignore_ament_install']
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'ignore'
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'ignore_ament_install'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['colcon_pkg']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'colcon_pkg'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['colcon_meta']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'colcon_meta'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['ros']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'ros'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['cmake', 'python']
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'cmake'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'python'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extensions ['python_setup_py']
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando) by extension 'python_setup_py'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extensions ['ignore', 'ignore_ament_install']
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extension 'ignore'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extension 'ignore_ament_install'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extensions ['colcon_pkg']
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extension 'colcon_pkg'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extensions ['colcon_meta']
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extension 'colcon_meta'
+[0.321s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extensions ['ros']
+[0.322s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/beadando) by extension 'ros'
+[0.323s] DEBUG:colcon.colcon_core.package_identification:Package 'beadando/beadando' with type 'ros.ament_cmake' and name 'beadando'
+[0.324s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extensions ['ignore', 'ignore_ament_install']
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extension 'ignore'
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extension 'ignore_ament_install'
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extensions ['colcon_pkg']
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extension 'colcon_pkg'
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extensions ['colcon_meta']
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extension 'colcon_meta'
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extensions ['ros']
+[0.325s] Level 1:colcon.colcon_core.package_identification:_identify(beadando/int_szam_mod_feladat) by extension 'ros'
+[0.326s] DEBUG:colcon.colcon_core.package_identification:Package 'beadando/int_szam_mod_feladat' with type 'ros.ament_python' and name 'int_szam_mod_feladat'
+[0.331s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.331s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.331s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.333s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.333s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.333s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.333s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.333s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.334s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_args' from command line to 'None'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_target' from command line to 'None'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_clean_cache' from command line to 'False'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_clean_first' from command line to 'False'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'cmake_force_configure' from command line to 'False'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'ament_cmake_args' from command line to 'None'
+[0.357s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'catkin_cmake_args' from command line to 'None'
+[0.358s] Level 5:colcon.colcon_core.verb:set package 'beadando' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.358s] DEBUG:colcon.colcon_core.verb:Building package 'beadando' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/int_szam_mod/build/beadando', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/int_szam_mod/install/beadando', 'merge_install': False, 'path': '/home/user/int_szam_mod/beadando/beadando', 'symlink_install': False, 'test_result_base': None}
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_args' from command line to 'None'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_target' from command line to 'None'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_clean_cache' from command line to 'False'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_clean_first' from command line to 'False'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'cmake_force_configure' from command line to 'False'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'ament_cmake_args' from command line to 'None'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'catkin_cmake_args' from command line to 'None'
+[0.359s] Level 5:colcon.colcon_core.verb:set package 'int_szam_mod_feladat' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.360s] DEBUG:colcon.colcon_core.verb:Building package 'int_szam_mod_feladat' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/int_szam_mod/build/int_szam_mod_feladat', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/int_szam_mod/install/int_szam_mod_feladat', 'merge_install': False, 'path': '/home/user/int_szam_mod/beadando/int_szam_mod_feladat', 'symlink_install': False, 'test_result_base': None}
+[0.360s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.362s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.362s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/user/int_szam_mod/beadando/beadando' with build type 'ament_cmake'
+[0.363s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/user/int_szam_mod/beadando/beadando'
+[0.370s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.370s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.370s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.375s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.381s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat' with build type 'ament_python'
+[0.384s] Level 1:colcon.colcon_core.shell:create_environment_hook('int_szam_mod_feladat', 'ament_prefix_path')
+[0.386s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/ament_prefix_path.ps1'
+[0.387s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/ament_prefix_path.dsv'
+[0.387s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/ament_prefix_path.sh'
+[0.389s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.389s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.390s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.402s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+[0.595s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat'
+[0.596s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.597s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.597s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/foxy'
+[0.613s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed
+[0.614s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+[0.651s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando
+[0.668s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(beadando)
+[0.668s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando
+[0.683s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando' for CMake module files
+[0.685s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando' for CMake config files
+[0.695s] Level 1:colcon.colcon_core.shell:create_environment_hook('beadando', 'cmake_prefix_path')
+[0.696s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.ps1'
+[0.697s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.dsv'
+[0.697s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.sh'
+[0.698s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/bin'
+[0.698s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/lib/pkgconfig/beadando.pc'
+[0.698s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/lib/python3.8/site-packages'
+[0.699s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.ps1'
+[0.700s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/beadando/share/beadando/package.dsv'
+[0.702s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.sh'
+[0.703s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.bash'
+[0.704s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.zsh'
+[0.707s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/beadando/share/colcon-core/packages/beadando)
+[0.731s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(beadando)
+[0.731s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando' for CMake module files
+[0.732s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando' for CMake config files
+[0.732s] Level 1:colcon.colcon_core.shell:create_environment_hook('beadando', 'cmake_prefix_path')
+[0.733s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.ps1'
+[0.734s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.dsv'
+[0.734s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/beadando/share/beadando/hook/cmake_prefix_path.sh'
+[0.735s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/bin'
+[0.735s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/lib/pkgconfig/beadando.pc'
+[0.735s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/beadando/lib/python3.8/site-packages'
+[0.736s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.ps1'
+[0.737s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/beadando/share/beadando/package.dsv'
+[0.738s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.sh'
+[0.738s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.bash'
+[0.739s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/beadando/share/beadando/package.zsh'
+[0.740s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/beadando/share/colcon-core/packages/beadando)
+[0.923s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat' for CMake module files
+[0.926s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/int_szam_mod/beadando/int_szam_mod_feladat' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/int_szam_mod_feladat build --build-base /home/user/int_szam_mod/build/int_szam_mod_feladat/build install --prefix /home/user/int_szam_mod/install/int_szam_mod_feladat --record /home/user/int_szam_mod/build/int_szam_mod_feladat/install.log --single-version-externally-managed
+[0.928s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat' for CMake config files
+[0.941s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat/lib'
+[0.942s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat/bin'
+[0.942s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/pkgconfig/int_szam_mod_feladat.pc'
+[0.943s] Level 1:colcon.colcon_core.environment:checking '/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages'
+[0.943s] Level 1:colcon.colcon_core.shell:create_environment_hook('int_szam_mod_feladat', 'pythonpath')
+[0.945s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/pythonpath.ps1'
+[0.951s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/pythonpath.dsv'
+[0.953s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/hook/pythonpath.sh'
+[0.954s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(int_szam_mod_feladat)
+[0.955s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/package.ps1'
+[0.955s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/package.dsv'
+[0.957s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/package.sh'
+[0.958s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/package.bash'
+[0.958s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/int_szam_mod/install/int_szam_mod_feladat/share/int_szam_mod_feladat/package.zsh'
+[0.959s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/int_szam_mod/install/int_szam_mod_feladat/share/colcon-core/packages/int_szam_mod_feladat)
+[0.959s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[0.960s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[0.960s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[0.961s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[0.968s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[0.969s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[0.969s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[0.969s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[0.982s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[0.983s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.ps1'
+[0.984s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/int_szam_mod/install/_local_setup_util_ps1.py'
+[0.986s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.ps1'
+[0.988s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.sh'
+[0.995s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/int_szam_mod/install/_local_setup_util_sh.py'
+[0.997s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.sh'
+[1.004s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.bash'
+[1.005s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.bash'
+[1.010s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/int_szam_mod/install/local_setup.zsh'
+[1.011s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/int_szam_mod/install/setup.zsh'

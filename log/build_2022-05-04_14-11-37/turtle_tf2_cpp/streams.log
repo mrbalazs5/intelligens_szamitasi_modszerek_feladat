@@ -1,0 +1,36 @@
+[0.039s] Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+[0.229s] [ 16%] Built target dynamic_frame_tf2_broadcaster
+[0.229s] [ 33%] Built target turtle_tf2_broadcaster
+[0.230s] [ 50%] Built target fixed_frame_tf2_broadcaster
+[0.233s] [ 66%] Built target turtle_tf2_message_filter
+[0.233s] [ 83%] Built target turtle_tf2_listener
+[0.595s] [100%] Built target static_turtle_tf2_broadcaster
+[0.608s] Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+[0.650s] Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp
+[0.658s] -- Install configuration: ""
+[0.658s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/static_turtle_tf2_broadcaster
+[0.658s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/turtle_tf2_broadcaster
+[0.660s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/turtle_tf2_listener
+[0.662s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/fixed_frame_tf2_broadcaster
+[0.662s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/dynamic_frame_tf2_broadcaster
+[0.663s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/lib/turtle_tf2_cpp/turtle_tf2_message_filter
+[0.663s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/launch
+[0.663s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/launch/turtle_tf2_fixed_frame_demo.launch.py
+[0.664s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/launch/turtle_tf2_dynamic_frame_demo.launch.py
+[0.664s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/launch/turtle_tf2_demo.launch.py
+[0.665s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/ament_index/resource_index/package_run_dependencies/turtle_tf2_cpp
+[0.666s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/ament_index/resource_index/parent_prefix_path/turtle_tf2_cpp
+[0.667s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/environment/ament_prefix_path.sh
+[0.668s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/environment/ament_prefix_path.dsv
+[0.672s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/environment/path.sh
+[0.673s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/environment/path.dsv
+[0.674s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/local_setup.bash
+[0.675s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/local_setup.sh
+[0.676s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/local_setup.zsh
+[0.678s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/local_setup.dsv
+[0.678s] -- Installing: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.dsv
+[0.679s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/ament_index/resource_index/packages/turtle_tf2_cpp
+[0.679s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/cmake/turtle_tf2_cppConfig.cmake
+[0.680s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/cmake/turtle_tf2_cppConfig-version.cmake
+[0.682s] -- Up-to-date: /home/user/int_szam_mod/install/turtle_tf2_cpp/share/turtle_tf2_cpp/package.xml
+[0.683s] Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp

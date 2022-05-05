@@ -1,0 +1,22 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/int_szam_mod/build/beadando
+-- Install configuration: ""
+-- Installing: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/package_run_dependencies/beadando
+-- Installing: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/parent_prefix_path/beadando
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.sh
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.dsv
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/environment/path.sh
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/environment/path.dsv
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.bash
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.sh
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.zsh
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/local_setup.dsv
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/package.dsv
+-- Installing: /home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/packages/beadando
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig.cmake
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig-version.cmake
+-- Installing: /home/user/int_szam_mod/install/beadando/share/beadando/package.xml

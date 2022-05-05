@@ -1,0 +1,6 @@
+Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/turtle_tf2_cpp
+Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/geometry_tutorials/turtle_tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/turtle_tf2_cpp
+Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/turtle_tf2_cpp -- -j6 -l6
+Invoking command in '/home/user/int_szam_mod/build/turtle_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp
+Invoked command in '/home/user/int_szam_mod/build/turtle_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/turtle_tf2_cpp

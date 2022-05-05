@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/PKG-INFO
+writing dependency_links to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/dependency_links.txt
+writing entry points to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/entry_points.txt
+writing requirements to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/requires.txt
+writing top-level names to ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/top_level.txt
+reading manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+writing manifest file '../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info/SOURCES.txt'
+running build
+running build_py
+copying int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat
+running install
+running install_lib
+copying /home/user/int_szam_mod/build/int_szam_mod_feladat/build/lib/int_szam_mod_feladat/int_szam_mod_feladat_listener.py -> /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat
+byte-compiling /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat/int_szam_mod_feladat_listener.py to int_szam_mod_feladat_listener.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat-0.3.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/int_szam_mod_feladat/int_szam_mod_feladat.egg-info to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/python3.8/site-packages/int_szam_mod_feladat-0.3.0-py3.8.egg-info
+running install_scripts
+Installing dynamic_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+Installing fixed_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+Installing int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+Installing int_szam_mod_feladat_listener script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+Installing int_szam_mod_feladat_message_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+Installing static_int_szam_mod_feladat_broadcaster script to /home/user/int_szam_mod/install/int_szam_mod_feladat/lib/int_szam_mod_feladat
+writing list of installed files to '/home/user/int_szam_mod/build/int_szam_mod_feladat/install.log'

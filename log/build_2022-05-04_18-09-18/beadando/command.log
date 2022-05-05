@@ -1,0 +1,6 @@
+Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/beadando/beadando -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/beadando
+Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/user/int_szam_mod/beadando/beadando -DCMAKE_INSTALL_PREFIX=/home/user/int_szam_mod/install/beadando
+Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user/int_szam_mod/build/beadando -- -j6 -l6
+Invoking command in '/home/user/int_szam_mod/build/beadando': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando
+Invoked command in '/home/user/int_szam_mod/build/beadando' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/user/int_szam_mod/build/beadando

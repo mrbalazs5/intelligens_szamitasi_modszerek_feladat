@@ -1,0 +1,8 @@
+/home/user/int_szam_mod/build/beadando/CMakeFiles/install/local.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/install.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/list_install_components.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/rebuild_cache.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/edit_cache.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/test.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/beadando_uninstall.dir
+/home/user/int_szam_mod/build/beadando/CMakeFiles/uninstall.dir

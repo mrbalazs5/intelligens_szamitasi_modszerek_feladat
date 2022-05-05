@@ -1,0 +1,15 @@
+/home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/package_run_dependencies/beadando
+/home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/parent_prefix_path/beadando
+/home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.sh
+/home/user/int_szam_mod/install/beadando/share/beadando/environment/ament_prefix_path.dsv
+/home/user/int_szam_mod/install/beadando/share/beadando/environment/path.sh
+/home/user/int_szam_mod/install/beadando/share/beadando/environment/path.dsv
+/home/user/int_szam_mod/install/beadando/share/beadando/local_setup.bash
+/home/user/int_szam_mod/install/beadando/share/beadando/local_setup.sh
+/home/user/int_szam_mod/install/beadando/share/beadando/local_setup.zsh
+/home/user/int_szam_mod/install/beadando/share/beadando/local_setup.dsv
+/home/user/int_szam_mod/install/beadando/share/beadando/package.dsv
+/home/user/int_szam_mod/install/beadando/share/ament_index/resource_index/packages/beadando
+/home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig.cmake
+/home/user/int_szam_mod/install/beadando/share/beadando/cmake/beadandoConfig-version.cmake
+/home/user/int_szam_mod/install/beadando/share/beadando/package.xml

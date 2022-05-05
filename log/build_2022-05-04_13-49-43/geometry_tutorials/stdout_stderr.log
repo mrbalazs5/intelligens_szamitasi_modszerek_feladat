@@ -1,0 +1,22 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/int_szam_mod/build/geometry_tutorials
+-- Install configuration: ""
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/ament_index/resource_index/package_run_dependencies/geometry_tutorials
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/ament_index/resource_index/parent_prefix_path/geometry_tutorials
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.sh
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.dsv
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/environment/path.sh
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/environment/path.dsv
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/local_setup.bash
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/local_setup.sh
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/local_setup.zsh
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/local_setup.dsv
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.dsv
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/ament_index/resource_index/packages/geometry_tutorials
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig.cmake
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig-version.cmake
+-- Installing: /home/user/int_szam_mod/install/geometry_tutorials/share/geometry_tutorials/package.xml

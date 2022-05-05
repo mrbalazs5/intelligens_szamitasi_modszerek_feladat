@@ -1,0 +1,64 @@
+[1.213s] Invoking command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed
+[1.222s] running egg_info
+[1.223s] creating ../../build/turtle_tf2_py/turtle_tf2_py.egg-info
+[1.223s] writing ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/PKG-INFO
+[1.223s] writing dependency_links to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/dependency_links.txt
+[1.223s] writing entry points to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/entry_points.txt
+[1.223s] writing requirements to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/requires.txt
+[1.224s] writing top-level names to ../../build/turtle_tf2_py/turtle_tf2_py.egg-info/top_level.txt
+[1.224s] writing manifest file '../../build/turtle_tf2_py/turtle_tf2_py.egg-info/SOURCES.txt'
+[1.224s] reading manifest file '../../build/turtle_tf2_py/turtle_tf2_py.egg-info/SOURCES.txt'
+[1.224s] writing manifest file '../../build/turtle_tf2_py/turtle_tf2_py.egg-info/SOURCES.txt'
+[1.224s] running build
+[1.225s] running build_py
+[1.225s] creating /home/user/int_szam_mod/build/turtle_tf2_py/build
+[1.225s] creating /home/user/int_szam_mod/build/turtle_tf2_py/build/lib
+[1.225s] creating /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.225s] copying turtle_tf2_py/__init__.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.225s] copying turtle_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.225s] copying turtle_tf2_py/turtle_tf2_message_broadcaster.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.228s] copying turtle_tf2_py/static_turtle_tf2_broadcaster.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.228s] copying turtle_tf2_py/turtle_tf2_listener.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.228s] copying turtle_tf2_py/turtle_tf2_broadcaster.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.228s] copying turtle_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py
+[1.229s] running install
+[1.229s] running install_lib
+[1.230s] creating /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.230s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/__init__.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.230s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.231s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/turtle_tf2_message_broadcaster.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.231s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/static_turtle_tf2_broadcaster.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.231s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/turtle_tf2_listener.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.231s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/turtle_tf2_broadcaster.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.231s] copying /home/user/int_szam_mod/build/turtle_tf2_py/build/lib/turtle_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py
+[1.232s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/__init__.py to __init__.cpython-38.pyc
+[1.232s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/fixed_frame_tf2_broadcaster.py to fixed_frame_tf2_broadcaster.cpython-38.pyc
+[1.232s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/turtle_tf2_message_broadcaster.py to turtle_tf2_message_broadcaster.cpython-38.pyc
+[1.232s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/static_turtle_tf2_broadcaster.py to static_turtle_tf2_broadcaster.cpython-38.pyc
+[1.233s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/turtle_tf2_listener.py to turtle_tf2_listener.cpython-38.pyc
+[1.233s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-38.pyc
+[1.233s] byte-compiling /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py/dynamic_frame_tf2_broadcaster.py to dynamic_frame_tf2_broadcaster.cpython-38.pyc
+[1.233s] running install_data
+[1.233s] creating /home/user/int_szam_mod/install/turtle_tf2_py/share/ament_index
+[1.233s] creating /home/user/int_szam_mod/install/turtle_tf2_py/share/ament_index/resource_index
+[1.234s] creating /home/user/int_szam_mod/install/turtle_tf2_py/share/ament_index/resource_index/packages
+[1.234s] copying resource/turtle_tf2_py -> /home/user/int_szam_mod/install/turtle_tf2_py/share/ament_index/resource_index/packages
+[1.234s] copying package.xml -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py
+[1.234s] creating /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/launch
+[1.234s] copying launch/turtle_tf2_fixed_frame_demo.launch.py -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/launch
+[1.235s] copying launch/turtle_tf2_dynamic_frame_demo.launch.py -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/launch
+[1.235s] copying launch/turtle_tf2_demo.launch.py -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/launch
+[1.235s] copying launch/turtle_tf2_sensor_message.launch.py -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/launch
+[1.235s] creating /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/rviz
+[1.236s] copying rviz/turtle_rviz.rviz -> /home/user/int_szam_mod/install/turtle_tf2_py/share/turtle_tf2_py/rviz
+[1.236s] running install_egg_info
+[1.236s] Copying ../../build/turtle_tf2_py/turtle_tf2_py.egg-info to /home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages/turtle_tf2_py-0.3.0-py3.8.egg-info
+[1.236s] running install_scripts
+[1.236s] Installing dynamic_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] Installing fixed_frame_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] Installing static_turtle_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] Installing turtle_tf2_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] Installing turtle_tf2_listener script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] Installing turtle_tf2_message_broadcaster script to /home/user/int_szam_mod/install/turtle_tf2_py/lib/turtle_tf2_py
+[1.237s] writing list of installed files to '/home/user/int_szam_mod/build/turtle_tf2_py/install.log'
+[1.238s] Invoked command in '/home/user/int_szam_mod/geometry_tutorials/turtle_tf2_py' returned '0': PYTHONPATH=/home/user/int_szam_mod/install/turtle_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_tf2_py build --build-base /home/user/int_szam_mod/build/turtle_tf2_py/build install --prefix /home/user/int_szam_mod/install/turtle_tf2_py --record /home/user/int_szam_mod/build/turtle_tf2_py/install.log --single-version-externally-managed
