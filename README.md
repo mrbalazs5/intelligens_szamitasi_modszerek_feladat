@@ -1,5 +1,9 @@
 # intelligens_szamitasi_modszerek_feladat
 
+## Task
+
+Create a ROS 2 Python application with 2 turtles following each other.
+
 ## Run
 
 In the root folder run:
